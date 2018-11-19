@@ -38,4 +38,4 @@ enabled.
  ```
  
  Save the file and start the server by running
- ```<IS_HOME>/bin/wso2server.sh``` in linux or ```<IS_HOME>/bin/wso2server.bat``` in windows.
+ ```<IS_HOME>/bin/wso2server.sh``` in linux or ```<IS_HOME>\bin\wso2server.bat``` in windows.
